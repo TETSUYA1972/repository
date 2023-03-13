@@ -1,0 +1,6 @@
+C:\okinawa-paudafuzu-wp\php
+
+php.ini(一番下に保存する)
+
+upload_max_filesize = 2000M
+post_max_size = 2000M
